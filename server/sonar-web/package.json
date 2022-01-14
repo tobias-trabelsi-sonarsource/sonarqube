@@ -85,7 +85,7 @@
     "@types/react-select-legacy": "npm:@types/react-select@1.2.6",
     "@types/react-virtualized": "9.21.0",
     "@types/sanitize-html": "1.22.0",
-    "@types/valid-url": "1.0.2",
+    "@types/valid-url": "1.0.3",
     "@typescript-eslint/eslint-plugin": "4.13.0",
     "@typescript-eslint/parser": "4.13.0",
     "autoprefixer": "9.7.4",

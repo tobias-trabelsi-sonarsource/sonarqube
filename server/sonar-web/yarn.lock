@@ -2699,10 +2699,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/keymaster@npm:1.6.30":
-  version: 1.6.30
-  resolution: "@types/keymaster@npm:1.6.30"
-  checksum: 313292d2e787f1d71e7bf1478faaadbb9779d3fdf220d912cf7b0b78f00df01dc14b4030d57484b790b83a79fd1d2accdd05b213d636205bb169daefaf212a7f
+"@types/keymaster@npm:1.6.28":
+  version: 1.6.28
+  resolution: "@types/keymaster@npm:1.6.28"
+  checksum: a245b63fd55b291744eed9729fb764512c54eec227df6d9019fcac642e35b6b34d1e8bc3d12b5941444e58f39a42735ba86afb0bc95ece296e3935a7a88349cf
   languageName: node
   linkType: hard
 
@@ -2914,10 +2914,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/valid-url@npm:1.0.2":
-  version: 1.0.2
-  resolution: "@types/valid-url@npm:1.0.2"
-  checksum: 189559ab018eb7934d426c97e754ce829c84d196036d3f4120015bdb88715fd332ce2ae96b83b3afa6dbcd28bf9e92caa7d4d64c29864a665a2593f8a4fec7cb
+"@types/valid-url@npm:1.0.3":
+  version: 1.0.3
+  resolution: "@types/valid-url@npm:1.0.3"
+  checksum: bd527221b4f839c440600520f9bfbdb340f473543ea5ee25215f35155ae52fd2cc5c39086cab2ffa67a54a7c303de937fcc8a58edf9bc5b7000169d7a7aa8d42
   languageName: node
   linkType: hard
 
@@ -3076,7 +3076,7 @@ __metadata:
     "@types/react-select-legacy": "npm:@types/react-select@1.2.6"
     "@types/react-virtualized": 9.21.0
     "@types/sanitize-html": 1.22.0
-    "@types/valid-url": 1.0.2
+    "@types/valid-url": 1.0.3
     "@typescript-eslint/eslint-plugin": 4.13.0
     "@typescript-eslint/parser": 4.13.0
     autoprefixer: 9.7.4
