@@ -2699,10 +2699,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/keymaster@npm:1.6.30":
-  version: 1.6.30
-  resolution: "@types/keymaster@npm:1.6.30"
-  checksum: 313292d2e787f1d71e7bf1478faaadbb9779d3fdf220d912cf7b0b78f00df01dc14b4030d57484b790b83a79fd1d2accdd05b213d636205bb169daefaf212a7f
+"@types/keymaster@npm:1.6.28":
+  version: 1.6.28
+  resolution: "@types/keymaster@npm:1.6.28"
+  checksum: a245b63fd55b291744eed9729fb764512c54eec227df6d9019fcac642e35b6b34d1e8bc3d12b5941444e58f39a42735ba86afb0bc95ece296e3935a7a88349cf
   languageName: node
   linkType: hard
 
@@ -2843,15 +2843,15 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/react-select@npm:4.0.16":
-  version: 4.0.16
-  resolution: "@types/react-select@npm:4.0.16"
+"@types/react-select@npm:4.0.18":
+  version: 4.0.18
+  resolution: "@types/react-select@npm:4.0.18"
   dependencies:
     "@emotion/serialize": ^1.0.0
     "@types/react": "*"
     "@types/react-dom": "*"
     "@types/react-transition-group": "*"
-  checksum: 33a9f5bca7ee3c945f73aa1deeadb0e1220d7721895cb81af96e828b116b9fa64d486bdecad2af8b165047023ba3a87443b43c0ac8acca09f8643f583fb97105
+  checksum: c247c7fe45cc1d1db1fb0e5a569e288037081ed05d17f377376de82a58a5d334bb7282922ee5eaf3c30957437b028097235be81cb0bed905b3b73f9a5b8c7b58
   languageName: node
   linkType: hard
 
@@ -3072,7 +3072,7 @@ __metadata:
     "@types/react-modal": 3.12.1
     "@types/react-redux": 6.0.6
     "@types/react-router": 3.0.20
-    "@types/react-select": 4.0.16
+    "@types/react-select": 4.0.18
     "@types/react-select-legacy": "npm:@types/react-select@1.2.6"
     "@types/react-virtualized": 9.21.0
     "@types/sanitize-html": 1.22.0
