@@ -2699,10 +2699,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/keymaster@npm:1.6.28":
-  version: 1.6.28
-  resolution: "@types/keymaster@npm:1.6.28"
-  checksum: a245b63fd55b291744eed9729fb764512c54eec227df6d9019fcac642e35b6b34d1e8bc3d12b5941444e58f39a42735ba86afb0bc95ece296e3935a7a88349cf
+"@types/keymaster@npm:1.6.30":
+  version: 1.6.30
+  resolution: "@types/keymaster@npm:1.6.30"
+  checksum: 313292d2e787f1d71e7bf1478faaadbb9779d3fdf220d912cf7b0b78f00df01dc14b4030d57484b790b83a79fd1d2accdd05b213d636205bb169daefaf212a7f
   languageName: node
   linkType: hard
 
@@ -3063,7 +3063,7 @@ __metadata:
     "@types/dompurify": 2.2.1
     "@types/enzyme": 3.10.5
     "@types/jest": 25.1.4
-    "@types/keymaster": 1.6.28
+    "@types/keymaster": 1.6.30
     "@types/lodash": 4.14.149
     "@types/prop-types": 15.7.3
     "@types/react": 16.8.23
