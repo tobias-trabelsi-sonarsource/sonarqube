@@ -70,7 +70,7 @@
     "@types/d3-shape": "1.2.4",
     "@types/d3-zoom": "1.7.3",
     "@types/dompurify": "2.2.1",
-    "@types/enzyme": "3.10.5",
+    "@types/enzyme": "3.10.11",
     "@types/jest": "25.1.4",
     "@types/keymaster": "1.6.28",
     "@types/lodash": "4.14.149",
