@@ -2473,10 +2473,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/d3-hierarchy@npm:1.1.4":
-  version: 1.1.4
-  resolution: "@types/d3-hierarchy@npm:1.1.4"
-  checksum: 7f82d59e9a6f1b9b34f6420ee19c471df6fb6984f354e86673c748ae84c51884b80efe5ac972c0742001fd649ff43e89cfc282ef72b504358d10c02f65a6e917
+"@types/d3-hierarchy@npm:1.1.8":
+  version: 1.1.8
+  resolution: "@types/d3-hierarchy@npm:1.1.8"
+  checksum: fb661b4d4727c8726ca5bc8dcd425811f1473cff7294dce55b0943d223b8d547c0f1d000c0b4ca7a7ce42e683e255521730a93b255f3ff3c9c8528420815415e
   languageName: node
   linkType: hard
 
@@ -3055,7 +3055,7 @@ __metadata:
     "@types/classnames": 2.2.10
     "@types/clipboard": 2.0.1
     "@types/d3-array": 1.2.9
-    "@types/d3-hierarchy": 1.1.4
+    "@types/d3-hierarchy": 1.1.8
     "@types/d3-scale": 2.0.2
     "@types/d3-selection": 1.3.2
     "@types/d3-shape": 1.2.4
