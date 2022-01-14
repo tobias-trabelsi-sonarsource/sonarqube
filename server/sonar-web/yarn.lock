@@ -2699,10 +2699,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/keymaster@npm:1.6.30":
-  version: 1.6.30
-  resolution: "@types/keymaster@npm:1.6.30"
-  checksum: 313292d2e787f1d71e7bf1478faaadbb9779d3fdf220d912cf7b0b78f00df01dc14b4030d57484b790b83a79fd1d2accdd05b213d636205bb169daefaf212a7f
+"@types/keymaster@npm:1.6.28":
+  version: 1.6.28
+  resolution: "@types/keymaster@npm:1.6.28"
+  checksum: a245b63fd55b291744eed9729fb764512c54eec227df6d9019fcac642e35b6b34d1e8bc3d12b5941444e58f39a42735ba86afb0bc95ece296e3935a7a88349cf
   languageName: node
   linkType: hard
 
@@ -3086,7 +3086,7 @@ __metadata:
     babel-plugin-lodash: 3.3.4
     chalk: 3.0.0
     classnames: 2.2.6
-    clipboard: 2.0.6
+    clipboard: 2.0.8
     core-js: 3.6.4
     create-react-class: 15.6.3
     cssnano: 4.1.10
@@ -4432,14 +4432,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"clipboard@npm:2.0.6":
-  version: 2.0.6
-  resolution: "clipboard@npm:2.0.6"
+"clipboard@npm:2.0.8":
+  version: 2.0.8
+  resolution: "clipboard@npm:2.0.8"
   dependencies:
     good-listener: ^1.2.2
     select: ^1.1.2
     tiny-emitter: ^2.0.0
-  checksum: e0eeef536344b2334fd8b0b5969e63e094051891c7e14643e47f67779aef06491e4cecbd73b21295764235aa829534fa812134ea8920537dd6a90cad68acd11f
+  checksum: 13bda94d102cbab9f214c546358a27405f79bcaa58b1bd364f1ef9b9b44e2b3a2b0345bbaad5ce72b24fe89e9b0e6d8aaec0a59157721c47143010238e815a24
   languageName: node
   linkType: hard
 
