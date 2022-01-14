@@ -63,7 +63,7 @@
     "@emotion/jest": "11.6.0",
     "@types/classnames": "2.2.10",
     "@types/clipboard": "2.0.1",
-    "@types/d3-array": "1.2.4",
+    "@types/d3-array": "1.2.9",
     "@types/d3-hierarchy": "1.1.4",
     "@types/d3-scale": "2.0.2",
     "@types/d3-selection": "1.3.2",
