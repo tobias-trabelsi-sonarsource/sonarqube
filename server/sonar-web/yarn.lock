@@ -2699,10 +2699,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/keymaster@npm:1.6.30":
-  version: 1.6.30
-  resolution: "@types/keymaster@npm:1.6.30"
-  checksum: 313292d2e787f1d71e7bf1478faaadbb9779d3fdf220d912cf7b0b78f00df01dc14b4030d57484b790b83a79fd1d2accdd05b213d636205bb169daefaf212a7f
+"@types/keymaster@npm:1.6.28":
+  version: 1.6.28
+  resolution: "@types/keymaster@npm:1.6.28"
+  checksum: a245b63fd55b291744eed9729fb764512c54eec227df6d9019fcac642e35b6b34d1e8bc3d12b5941444e58f39a42735ba86afb0bc95ece296e3935a7a88349cf
   languageName: node
   linkType: hard
 
@@ -2814,13 +2814,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/react-redux@npm:6.0.6":
-  version: 6.0.6
-  resolution: "@types/react-redux@npm:6.0.6"
+"@types/react-redux@npm:6.0.20":
+  version: 6.0.20
+  resolution: "@types/react-redux@npm:6.0.20"
   dependencies:
     "@types/react": "*"
     redux: ^4.0.0
-  checksum: 2b56dcb652e412c82a112cc605b4eb2e463f1634ee7e8a2930539db72bc7f08b913ec5ce438f1989c5c9c0a5c903376bcb2a197464764f60330139d71b3900c2
+  checksum: cf568ee120743b09c9bad711e5eb808103d278390bbdb1cc76715c534ef6f7bb220c46f0862e40f0d8bee4f9e2e55d4b3b121136b9d587a3cfa53cca77fc935c
   languageName: node
   linkType: hard
 
@@ -3070,7 +3070,7 @@ __metadata:
     "@types/react-dom": 16.8.4
     "@types/react-helmet": 5.0.15
     "@types/react-modal": 3.12.1
-    "@types/react-redux": 6.0.6
+    "@types/react-redux": 6.0.20
     "@types/react-router": 3.0.20
     "@types/react-select": 4.0.16
     "@types/react-select-legacy": "npm:@types/react-select@1.2.6"
