@@ -2299,13 +2299,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/enzyme@npm:3.10.5":
-  version: 3.10.5
-  resolution: "@types/enzyme@npm:3.10.5"
+"@types/enzyme@npm:3.10.11":
+  version: 3.10.11
+  resolution: "@types/enzyme@npm:3.10.11"
   dependencies:
     "@types/cheerio": "*"
     "@types/react": "*"
-  checksum: 41a940c819c09b726ccdc88b750e0e20ff66d5e24fa474fb1a271a232d9ffba14fa1308ea4338e7ec71e98d39e419ce89179f5f68f40a9a95b3fea86ba59275d
+  checksum: 4085899b16e691e715f374345fae2963dc89a002c55a249381e37f94d93c8d016ad7208a8d11cc0f2d8c7cdfa6fa9f5590f0bfae984e51571f5d1e9c2d6ee782
   languageName: node
   linkType: hard
 
@@ -17786,7 +17786,7 @@ resolve@1.1.7:
   dependencies:
     "@andrew-codes/gatsby-plugin-elasticlunr-search": 1.0.4
     "@types/classnames": 2.2.7
-    "@types/enzyme": 3.10.5
+    "@types/enzyme": 3.10.11
     "@types/jest": 25.1.4
     "@types/lodash": 4.14.149
     "@types/lunr": 2.3.2
