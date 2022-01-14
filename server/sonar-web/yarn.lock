@@ -2459,10 +2459,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/d3-array@npm:1.2.4":
-  version: 1.2.4
-  resolution: "@types/d3-array@npm:1.2.4"
-  checksum: 3800b028a6ec45f6c50d72e6b901bc5a846018c2bf9ce3ec0e81a5224055d4b9420a2687cc53cd3aa0689682e97947ccd596d9b12b488b70adc45500a7c75a8e
+"@types/d3-array@npm:1.2.9":
+  version: 1.2.9
+  resolution: "@types/d3-array@npm:1.2.9"
+  checksum: baa59c95d31fe541ed6bc45c2b508f73231353b910dfe7eb5ae3d66d3b38767677829802bfd86a1a2af435e48c218358d663343374846e6141d741c7c5ab0a91
   languageName: node
   linkType: hard
 
@@ -3054,7 +3054,7 @@ __metadata:
     "@emotion/styled": 11.6.0
     "@types/classnames": 2.2.10
     "@types/clipboard": 2.0.1
-    "@types/d3-array": 1.2.4
+    "@types/d3-array": 1.2.9
     "@types/d3-hierarchy": 1.1.4
     "@types/d3-scale": 2.0.2
     "@types/d3-selection": 1.3.2
