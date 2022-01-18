@@ -2607,10 +2607,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/history@npm:^3":
-  version: 3.2.3
-  resolution: "@types/history@npm:3.2.3"
-  checksum: da2e2ca56921ef86703f1a19317bf4af409e425b90d174892fe2fb4a6b8c5856cc5113096ccd94e9436e11720be38920452a612a0e1b2fce1670956a68a3a0a1
+"@types/history@npm:^3.2.5":
+  version: 3.2.5
+  resolution: "@types/history@npm:3.2.5"
+  checksum: d22f673f9364a5d122b29e4e4d39784e149b52d3016dc1b7fe8d5bf9b3241e80364b790737d6642060d70add3be20a1570650f0e791e60d6409313ecf29a06ba
   languageName: node
   linkType: hard
 
@@ -2699,10 +2699,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/keymaster@npm:1.6.30":
-  version: 1.6.30
-  resolution: "@types/keymaster@npm:1.6.30"
-  checksum: 313292d2e787f1d71e7bf1478faaadbb9779d3fdf220d912cf7b0b78f00df01dc14b4030d57484b790b83a79fd1d2accdd05b213d636205bb169daefaf212a7f
+"@types/keymaster@npm:1.6.28":
+  version: 1.6.28
+  resolution: "@types/keymaster@npm:1.6.28"
+  checksum: a245b63fd55b291744eed9729fb764512c54eec227df6d9019fcac642e35b6b34d1e8bc3d12b5941444e58f39a42735ba86afb0bc95ece296e3935a7a88349cf
   languageName: node
   linkType: hard
 
@@ -2824,13 +2824,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/react-router@npm:3.0.20":
-  version: 3.0.20
-  resolution: "@types/react-router@npm:3.0.20"
+"@types/react-router@npm:3.0.28":
+  version: 3.0.28
+  resolution: "@types/react-router@npm:3.0.28"
   dependencies:
-    "@types/history": ^3
+    "@types/history": ^3.2.5
     "@types/react": "*"
-  checksum: fe9b2b00feb6fb6911b47e89109f434c0673878734ad906ceeafa8bc1a99202d6e654bef90cf8216d3f1bb9f00e3b2994982c4307ce87af841db3b67a5d0e793
+  checksum: 475943cccdca69e178cc358e65a15f47ab6a932421eb9463ca6328540faac357f65791bff8627a668e69f6556db9355b59cb9df2d6404de4a6872b2cada86e3c
   languageName: node
   linkType: hard
 
@@ -3071,7 +3071,7 @@ __metadata:
     "@types/react-helmet": 5.0.15
     "@types/react-modal": 3.12.1
     "@types/react-redux": 6.0.6
-    "@types/react-router": 3.0.20
+    "@types/react-router": 3.0.28
     "@types/react-select": 4.0.16
     "@types/react-select-legacy": "npm:@types/react-select@1.2.6"
     "@types/react-virtualized": 9.21.0
