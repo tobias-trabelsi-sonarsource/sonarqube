@@ -14,22 +14,26 @@
         "matchManagers": "gradle",
         "matchUpdateTypes": ["patch", "minor"],
         "enabled": true,
-        "groupName": "Backend Dependencies minor"
+        "groupName": "Backend Dependencies minor",
+        "addLabels": ["Backend", "Minor"],
       },
       {
         "matchManagers": "gradle",
         "matchUpdateTypes": ["major"],
+        "addLabels": ["Backend", "Major"],
         "enabled": true,
       },
       {
         "matchManagers": "npm"
         "matchUpdateTypes": ["patch", "minor"],
         "enabled": true,
-        "groupName": "Frontend Dependencies minor"
+        "addLabels": ["Frontend", "Minor"],
+        "groupName": "Frontend Dependencies minor",
       },
       {
         "matchManagers": "npm"
         "matchUpdateTypes": ["major"],
+        "addLabels": ["Frontend", "Major"],
         "enabled": true,
       }
     ]
