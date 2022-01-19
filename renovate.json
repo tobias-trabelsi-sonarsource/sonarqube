@@ -1,5 +1,36 @@
 {
-  "extends": [
-    "config:base"
-  ]
+    "extends": ["config:base", ":preserveSemverRanges"],
+    "branchConcurrentLimit": 0,
+    "prConcurrentLimit": 0,
+    "prHourlyLimit": 0,
+    "separateMinorPatch": false,
+    "separateMajorMinor": true,
+    "packageRules": [
+      {
+        "matchManagers": "gradle-wrapper",
+        "enabled": false
+      },
+      {
+        "matchManagers": "gradle",
+        "matchUpdateTypes": ["patch", "minor"],
+        "enabled": true,
+        "groupName": "Backend Dependencies minor"
+      },
+      {
+        "matchManagers": "gradle",
+        "matchUpdateTypes": ["major"],
+        "enabled": true,
+      },
+      {
+        "matchManagers": "npm"
+        "matchUpdateTypes": ["patch", "minor"],
+        "enabled": true,
+        "groupName": "Frontend Dependencies minor"
+      },
+      {
+        "matchManagers": "npm"
+        "matchUpdateTypes": ["major"],
+        "enabled": true,
+      }
+    ]
 }
